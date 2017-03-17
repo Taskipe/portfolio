@@ -61,13 +61,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f1f1f"
+              "background": "#4d4d4d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#313030!important"
+              "background": "#5e5e5e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#393838"
+              "background": "#666666"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -92,7 +92,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#393838",
+            "bgColor": "#666666",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -107,7 +107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/omakuva-web-132x128.png",
+              "src": "@PROJECT_PATH@/assets/images/omakuva-web-133x128.png",
               "height": 128,
               "alt": "Petri Taskinen",
               "link": "mailto:petri.taskinen@wmail.fi",
@@ -120,7 +120,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto: petri.taskinen@wmail.fi\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Petri Taskinen</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto: petri.taskinen@wmail.fi\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Petri Taskinen</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>MENU</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Index.html#gallery2-3\">Portfolio</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -405,7 +405,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "right"
+            },
+            "SPAN": {
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-6",
@@ -423,9 +426,8 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/omakuva-web-128x123.png",
+              "src": "@PROJECT_PATH@/assets/images/omakuva-web-133x128.png",
               "width": 128,
-              "active": true,
               "link": "",
               "alt": "",
               "title": "",
@@ -433,8 +435,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "YHTEYS:<br><br>Petri Taskinen<br>Perhekunnantie 26 G 50<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">00430 Helsinki</span><br>",
@@ -545,7 +551,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#393838",
+            "bgColor": "#666666",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -573,7 +579,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto: petri.taskinen@wmail.fi\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Petri Taskinen</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto: petri.taskinen@wmail.fi\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Petri Taskinen</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>MENU</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Index.html#gallery2-3\">Portfolio</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {

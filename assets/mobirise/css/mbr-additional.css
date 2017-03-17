@@ -453,19 +453,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #1f1f1f;
+  background: #4d4d4d;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #313030!important;
+  background: #5e5e5e!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #393838;
+  background: #666666;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -522,7 +522,10 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #contacts1-6 P {
-  text-align: left;
+  text-align: right;
+}
+#contacts1-6 SPAN {
+  text-align: right;
 }
 #social-buttons3-8 .mbr-section-title,
 #social-buttons3-8 .btn-social {
