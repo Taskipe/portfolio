@@ -25,7 +25,9 @@
     "uniqCompNum": 16,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Index.html": {
@@ -119,9 +121,10 @@
               "linkInNewWindow": false,
               "name": "layers",
               "family": "et-line",
-              "link": "https://mobirise.com",
+              "link": "#top",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETRI TASKINEN</a>",
