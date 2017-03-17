@@ -17,7 +17,7 @@
         "textFont": "Arimo",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
